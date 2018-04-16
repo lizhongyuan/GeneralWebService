@@ -1,1 +1,1 @@
-general web service, using koa
+general web service, in different ways
